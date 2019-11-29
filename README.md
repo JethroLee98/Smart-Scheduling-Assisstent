@@ -1,6 +1,6 @@
 # Stock_Chatbot
 ## Demo<br>
-![Demo](https://github.com/JethroLee98/Stock_Chatbot/blob/master/ChatbotDemo.gif "Demo")<br>  
+![Demo](https://github.com/JethroLee98/Smart-Scheduling-Assisstent/blob/master/Demo.gif "Demo")<br>  
 ## Configuration Instructions
 ## Installation Instructions
 There are few online packages need to be installed for this project
@@ -30,23 +30,6 @@ When you train your model, Rasa NLU will check if all required dependencies are 
 ***For more installation information***<br>
 Go to https://rasa.com/docs/nlu/installation/<br>
 
-### iexfinance
-***Setting up iexfinance***<br>
-<br>
-**From PyPI with pip (latest stable release):**<br>
-```
-$ pip3 install iexfinance
-```
-**From development repository (dev version):**<br>
-If you want to use the bleeding edge version you can get it from github:<br>
-```
-$ git clone https://github.com/addisonlynch/iexfinance.git
-$ cd iexfinance
-$ python3 setup.py install
-```
-***For more installation information***<br>
-Go to https://github.com/addisonlynch/iexfinance<br>
-<br>
 ### wxpy
 ***Setting up wxpy***<br>
 wxpy support Python 3.4-3.6, and 2.7 version<br>
@@ -74,6 +57,7 @@ Go to https://wxpy.readthedocs.io/zh/latest/#<br>
     ```
 4. Run it, an QR code will created automatically, use your `Wechat` to scan the QR code and log in.
 5. Start to chat!
+## More details please read the project report
 ## a file manifest
 ## copyright and licensing information
 ## contact information for the distributor or programmer
